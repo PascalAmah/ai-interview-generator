@@ -229,28 +229,7 @@ https://ai-interview-generator-two.vercel.app/
 Add your Loom walkthrough link here:
 
 ```txt
-Hi Swati,
-
-I hope you're doing well.
-
-My name is Pascal Amaliri, and I’m applying for the Technical Co-Founder / Founding Engineer opportunity.
-
-I came across this role through Julien Barbier, who I previously learned from during the ALX Software Engineering program. His emphasis on ownership, fast iteration, communication, and building real-world systems is a big part of why this opportunity strongly resonated with me.
-
-Attached are:
-
-* The technical assignment
-* Github repository
-* Live deployment link
-* Loom walkthrough video
-
-For the assignment, I focused on building a clean and maintainable solution with thoughtful AI integration, clear UX, and simple architecture decisions optimized for readability and iteration speed.
-
-I appreciate the opportunity and look forward to hearing from you.
-
-Best regards,
-Pascal Amaliri
-
+hhttps://www.loom.com/share/3b63dd0d6a9b4369999258adfbd0f500
 ```
 
 ---
