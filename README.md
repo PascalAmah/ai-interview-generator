@@ -141,7 +141,8 @@ for a candidate applying for the role: "${jobTitle}"
 Requirements:
 - Questions should assess strategic thinking, communication, and role competency
 - Avoid generic questions
-- Return concise bullet points
+- Return only a markdown bullet list.
+- Do not include explanations or assessment labels.
 ```
 
 The goal was to demonstrate:
@@ -218,7 +219,7 @@ The application is deployed on Vercel.
 Add your deployment link here:
 
 ```txt
-https://your-deployment-link.vercel.app
+https://ai-interview-generator-two.vercel.app/
 ```
 
 ---
@@ -228,7 +229,28 @@ https://your-deployment-link.vercel.app
 Add your Loom walkthrough link here:
 
 ```txt
-https://loom.com/your-video-link
+Hi Swati,
+
+I hope you're doing well.
+
+My name is Pascal Amaliri, and I’m applying for the Technical Co-Founder / Founding Engineer opportunity.
+
+I came across this role through Julien Barbier, who I previously learned from during the ALX Software Engineering program. His emphasis on ownership, fast iteration, communication, and building real-world systems is a big part of why this opportunity strongly resonated with me.
+
+Attached are:
+
+* The technical assignment
+* Github repository
+* Live deployment link
+* Loom walkthrough video
+
+For the assignment, I focused on building a clean and maintainable solution with thoughtful AI integration, clear UX, and simple architecture decisions optimized for readability and iteration speed.
+
+I appreciate the opportunity and look forward to hearing from you.
+
+Best regards,
+Pascal Amaliri
+
 ```
 
 ---
